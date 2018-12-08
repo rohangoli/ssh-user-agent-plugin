@@ -1,2 +1,0 @@
-#Sat Dec 08 21:37:18 IST 2018
-constructor=host,port,credentialsId,jvmOptions,javaPath,prefixStartSlaveCmd,suffixStartSlaveCmd,launchTimeoutSeconds,maxNumRetries,retryWaitTime,sshHostKeyVerificationStrategy

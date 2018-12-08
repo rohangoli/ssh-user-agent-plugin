@@ -1,7 +1,8 @@
-hudson.plugins.sshuserslaves.JavaVersionChecker
+hudson.plugins.sshuseragent.JavaVersionChecker
+hudson.plugins.sshuseragent.Messages
+hudson.plugins.sshuseragent.SSHLauncher
+hudson.plugins.sshuseragent.verifiers.JenkinsTrilead9VersionSupport
+hudson.plugins.sshuseragent.verifiers.MissingVerificationStrategyAdministrativeMonitor
+hudson.plugins.sshuseragent.verifiers.TrileadVersionSupportManager
+hudson.plugins.sshuseragent.verifiers.TrileadVersionSupportManager$TrileadVersionSupport
 hudson.plugins.sshuserslaves.Messages
-hudson.plugins.sshuserslaves.SSHLauncher
-hudson.plugins.sshuserslaves.verifiers.JenkinsTrilead9VersionSupport
-hudson.plugins.sshuserslaves.verifiers.MissingVerificationStrategyAdministrativeMonitor
-hudson.plugins.sshuserslaves.verifiers.TrileadVersionSupportManager
-hudson.plugins.sshuserslaves.verifiers.TrileadVersionSupportManager$TrileadVersionSupport

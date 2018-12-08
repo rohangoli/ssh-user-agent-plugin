@@ -4,6 +4,7 @@ target
 *.ipr
 *.iws
 .classpath
+*.class
 .project
 .settings
 work
