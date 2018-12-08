@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Plugin-Class: hudson.plugins.sshuserslaves.PluginImpl
+Group-Id: org.jenkins-ci.plugins
+Short-Name: ssh-user-agent
+Long-Name: SSH User Agent plugin
+Url: https://wiki.jenkins.io/display/JENKINS/SSH+User+Agent+plugin
+Compatible-Since-Version: 1.27
+Plugin-Version: 1.0
+Hudson-Version: 2.89.4
+Jenkins-Version: 2.89.4
+Plugin-Dependencies: credentials:2.1.18,ssh-credentials:1.14,trilead-a
+ pi:1.0.0
+Plugin-Developers: Rohan Goli:rohangoli:
+Support-Dynamic-Loading: true
+Libraries: C:\Users\rohan\Documents\ssh-user-agent-plugin\src\main\res
+ ources,C:\Users\rohan\Documents\ssh-user-agent-plugin\target\classes
+Resource-Path: C:\Users\rohan\Documents\ssh-user-agent-plugin\src\main
+ \webapp
+

@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  Allows to launch user specific agents over SSH, inherited from SSH Slaves Plugin.
+</div>
