@@ -1,4 +1,4 @@
-Jenkins SSH User Agent Plugin
+SSH User Agent Plugin
 =========================
 
 Provides a means to launch agents via SSH.
